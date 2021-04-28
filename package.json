@@ -1,0 +1,23 @@
+{
+  "name": "photos_api_demo",
+  "version": "1.0.0",
+  "description": "api to recieve photos from JSON placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmykehs/Photos_Api_Demo.git"
+  },
+  "author": "Jimmy Kehs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmykehs/Photos_Api_Demo/issues"
+  },
+  "homepage": "https://github.com/jimmykehs/Photos_Api_Demo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0"
+  }
+}
